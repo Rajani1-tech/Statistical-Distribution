@@ -8,3 +8,7 @@ The normal distribution, also known as the Gaussian distribution, is a fundament
 
 ![normal_distribution_output](https://github.com/Rajani1-tech/Statistical-Distribution/assets/83020452/160ea9b7-720b-4d04-8ab3-ac3abd205c53)
 
+# 2. Binomial Distribution
+The binomial distribution is a discrete probability distribution that models the number of successes in a fixed number of independent Bernoulli trials, where each trial has the same probability of success. It is characterized by two parameters: n the number of trials, and p, the probability of success on each trial.
+![image](https://github.com/Rajani1-tech/Statistical-Distribution/assets/83020452/ba96bc49-bf06-4d9e-860d-cf66d89b7111)
+![image](https://github.com/Rajani1-tech/Statistical-Distribution/assets/83020452/976f9ed6-c893-4171-a339-38333d9077f1)
